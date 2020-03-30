@@ -12,8 +12,8 @@
     [
         {
             // Make changes here to the powershell.exe profile
-            "guid": "{31b413b5-d44f-4e0f-aa3b-5debb6d9d7c6}",
-            "name": "阿里-miss",
+            "guid": "{}",
+            "name": "",
             "commandline": "ssh usr1@your IP",
             "hidden": false,
             "backgroundImage":"ms-appdata:///roaming/2B.jpg",
@@ -33,8 +33,8 @@
         },
         {
             // Make changes here to the powershell.exe profile
-            "guid": "{2ECDD3FD-CCA5-F286-D3ED-962C98D42402}",
-            "name": "阿里-Admin",
+            "guid": "",
+            "name": "",
             "commandline": "ssh usr2@your IP",
             "hidden": false,
             "backgroundImage":"ms-appdata:///roaming/zhizi.jpg",
